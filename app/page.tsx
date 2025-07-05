@@ -73,6 +73,15 @@ const projects = [
     liveUrl: "https://www.youtube.com/watch?v=34So39ILAr8",
     githubUrl: "https://github.com/eldanielgalaviz",
     featured: false,
+  },  {
+    id: 7,
+    title: "Aplicacion de Macronutrientes",
+    description: "Aplicacion desarrolada para ver los Macronutientes de un Usuario dependiendo lo Aliminetos ingeridos en el dia, te dice las KCal, Carbohidratos, Proteínas, Grasas, Calorias Consumidos en tu dia, para llevar una cuenta de alimentos a un Nutriologo. ",
+    image: "/macros.png?height=300&width=500",
+    technologies: ["Angular 18", "Python", "Flask", "Mysql"],
+    liveUrl: "https://www.youtube.com/watch?v=4vNKj9BSPJg",
+    githubUrl: "https://github.com/eldanielgalaviz/macros",
+    featured: false,
   },
 ]
 
