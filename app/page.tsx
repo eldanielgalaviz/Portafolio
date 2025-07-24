@@ -17,7 +17,7 @@ const projects = [
     description:
       "Plataforma E-commerce.",
     image: "/tienda.png?height=300&width=500",
-    technologies: ["React", "Next.js", "PostgreSQL", "Stripe"],
+    technologies: ["React","Node Js","Next.js", "PostgreSQL", "Stripe"],
     liveUrl: "https://www.youtube.com/watch?v=kqUc282Yx9U",
     githubUrl: "https://github.com/eldanielgalaviz/tienda",
     featured: true,
@@ -28,7 +28,7 @@ const projects = [
     description:
       "Generador de Plataformas con UML es una innovadora plataforma impulsada por Inteligencia Artificial que transforma ideas en sistemas completos de software. A partir de un simple prompt en lenguaje natural (por ejemplo, “gestor de horarios para una universidad”), el sistema genera automáticamente todos los diagramas UML necesarios, incluyendo diagramas de clases, de paquetes, de secuencia, y más. Estos diagramas no solo representan visualmente la arquitectura del sistema, sino que son el punto de partida para generar todo el código fuente de la aplicación, tanto frontend como backend. La plataforma genera código estructurado y funcional en tecnologías modernas como Angular para el frontend, NestJS para el backend, y esquemas completos de bases de datos relacionales. Con esta herramienta, puedes obtener en minutos lo que normalmente tomaría semanas de análisis, diseño y codificación. Ideal para desarrolladores, empresas de software, instituciones educativas y startups que buscan reducir tiempos y costos de desarrollo.!!!NOTA: El servidor tarda unos minutos en prender.",
     image: "/UML.png?height=300&width=500",
-    technologies: ["Nest.js", "Ract", "PostgreSQL", "Tailwind"],
+    technologies: ["Ract","Node Js", "Nest JS", "PostgreSQL", "Tailwind"],
     liveUrl: "https://uml-generator-4gsb-7bcxx3dvg-jesusdanielgfim-uasedumxs-projects.vercel.app/",
     githubUrl: "https://github.com/eldanielgalaviz/UML-GENERATOR",
     featured: true,
@@ -39,7 +39,7 @@ const projects = [
     description:
       "Plataforme gestor de horarios, profesores, alumnos, Empleados de una universidad",
     image: "/horarios.png?height=300&width=500",
-    technologies: ["React", "Chart.js", "OpenWeather API"],
+    technologies: ["React", "Node.js", "OpenWeather API"],
     liveUrl: "https://controlhorarios.up.railway.app/",
     githubUrl: "https://github.com/LuisRo14/Proyecto_Horarios_ahora_si",
     featured: false,
