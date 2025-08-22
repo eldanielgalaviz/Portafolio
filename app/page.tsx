@@ -35,6 +35,17 @@ const projects = [
   },
   {
     id: 3,
+    title: "Pronosticos MLB",
+    description:
+      "Plataforma de predicciones de partidos de la MLB, donde puedes predecir el resultado de los partidos y ver las estadísticas de los jugadores. La prediccion se basa completamente en las estadisticas de los ultimos 10 partidos.",
+    image: "/mlb.png?height=300&width=500",
+    technologies: ["React/NextJS", "Node.js/NestJS", "MLB API"],
+    liveUrl: "https://pronosticos-fx72b9297-jesusdanielgfim-uasedumxs-projects.vercel.app/",
+    githubUrl: "https://github.com/eldanielgalaviz/pronosticos-mlb",
+    featured: false,
+  },
+    {
+    id: 3,
     title: "Gestor de Horarios Universidad",
     description:
       "Plataforme gestor de horarios, profesores, alumnos, Empleados de una universidad",
