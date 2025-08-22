@@ -45,7 +45,7 @@ const projects = [
     featured: false,
   },
     {
-    id: 3,
+    id: 4,
     title: "Gestor de Horarios Universidad",
     description:
       "Plataforme gestor de horarios, profesores, alumnos, Empleados de una universidad",
@@ -56,7 +56,7 @@ const projects = [
     featured: false,
   },
   {
-    id: 4,
+    id: 5,
     title: "Rastreador Sabueso",
     description: "Es una aplicacion mobil diseñada para personas ciegas o de baja vision, con la cual puedas rastraer un objeto con un rastreador desde una aplicacion mobil, la cual te dice la distacia en voz alta y tambiem funciona com vibraciones en el telefono, conforme mas te hacercas, vibra con mayor intensidad, t tambien te dice la ultima ubicacion encontrada en google maps.",
     image: "/sabueso.jpg?height=300&width=500",
@@ -66,7 +66,7 @@ const projects = [
     featured: false,
   },
   {
-    id: 5,
+    id: 6,
     title: "Cerradura Inteligente ",
     description: "Cerradura Inteligente con 4 metodos de acceso, tarjetas RFID, Codigo, Aplicacion, Bluetooth",
     image: "/cerradura.png?height=300&width=500",
@@ -76,7 +76,7 @@ const projects = [
     featured: false,
   },
   {
-    id: 6,
+    id: 7,
     title: "API REST Completa",
     description: "API REST robusta con autenticación JWT, documentación con Swagger y testing automatizado.",
     image: "/placeholder.svg?height=300&width=500",
